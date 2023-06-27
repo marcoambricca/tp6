@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    for(int i = 0; i<ViewBag.partidos.Count; i++){
+        <div class="partidocard">
+            <img src="@ViewBag.partidos[i].Logo">
+            <h1>@ViewBag.partidos[i].Nombre</h1>
+            <a href='@Url.Action("VerDetallePartido", new{idPartido = ViewBag.partidos[i].IdPartido})'>Link a @ViewBag.partidos[i].Nombre</a>
+        </div>
+    }
+}

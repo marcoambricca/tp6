@@ -1,0 +1,25 @@
+<div class="detallepartido">
+    <div class="partido">
+        <h2>@ViewBag.detallePartido.Nombre</h2>
+        <img src="/@ViewBag.detallePartido.Logo" alt="">
+        <h2>@ViewBag.detallePartido.SitioWeb</h2>
+        <h2>@ViewBag.detallePartido.FechaFundacion.ToShortDateString()</h2>
+        <h2>la cantidad de diputados son: @ViewBag.detallePartido.CantidadDiputados</h2>
+        <h2>la cantidad de senadores son: @ViewBag.detallePartido.CantidadSenadores</h2>
+        <a href='@Url.Action("AgregarCandidato", new{idPartido = ViewBag.detallePartido.IdPartido})'>Link a crear candidato</a>
+    </div>
+    <div class="candidatos">
+        @for(int i = 0; i<ViewBag.listaCandidatos.Count; i++){
+                <div>
+                        <h2>@ViewBag.listaCandidatos[i].Nombre</h2>
+                        <a href='@Url.Action("VerDetalleCandidato", new{idCandidato = ViewBag.listaCandidatos[i].IdCandidato})'>Link a detalle de @ViewBag.listaCandidatos[i].Nombre</a>
+
+                </div>
+            }
+    </div>
+</div>
+
+
+
+
+
