@@ -44,7 +44,8 @@ footer {
   width: 300px;
 }
 .detallepartido{
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
 }
 .detallecandidato img{
   width: 300px;
