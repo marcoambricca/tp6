@@ -1,31 +1,35 @@
 {
   "Files": [
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css",
+      "Id": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css",
       "PackagePath": "staticwebassets\\TPBase.bundle.scp.css"
     },
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\wwwroot\\TP6BD.sql",
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\TP6BD.sql",
       "PackagePath": "staticwebassets\\TP6BD.sql"
     },
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\wwwroot\\img\\alfonsin.jpg",
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\img\\alfonsin.jpg",
       "PackagePath": "staticwebassets\\img\\alfonsin.jpg"
     },
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\wwwroot\\img\\peron.jpg",
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\img\\bandera.png",
+      "PackagePath": "staticwebassets\\img\\bandera.png"
+    },
+    {
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\img\\peron.jpg",
       "PackagePath": "staticwebassets\\img\\peron.jpg"
     },
     {
-      "Id": "Z:\\2023\\Programación\\TP6\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\47490408\\tp6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

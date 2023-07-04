@@ -508,11 +508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\2023\\Programación\\TP6\\TPBase.csproj",
+      "projectUniqueName": "C:\\Users\\47490408\\tp6\\TPBase.csproj",
       "projectName": "TPBase",
-      "projectPath": "Z:\\2023\\Programación\\TP6\\TPBase.csproj",
+      "projectPath": "C:\\Users\\47490408\\tp6\\TPBase.csproj",
       "packagesPath": "C:\\Users\\47490408\\.nuget\\packages\\",
-      "outputPath": "Z:\\2023\\Programación\\TP6\\obj\\",
+      "outputPath": "C:\\Users\\47490408\\tp6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

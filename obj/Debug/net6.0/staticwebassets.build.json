@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yjFU+e2QyaLwAtTeKz4EcC9S6+NA8kg5Kg7tQ/XRf68=",
+  "Hash": "jdJyPTCit9kDc8i6FAftwpEVK8Y8ZdygdJXgYe4RI3w=",
   "Source": "TPBase",
   "BasePath": "_content/TPBase",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TPBase\\wwwroot",
       "Source": "TPBase",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TPBase.styles.css",
+      "Identity": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TPBase.styles.css",
       "SourceId": "TPBase",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "TPBase.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TPBase.styles.css"
+      "OriginalItemSpec": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TPBase.styles.css"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css",
+      "Identity": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css",
       "SourceId": "TPBase",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "TPBase.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\2023\\Programación\\TP6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\47490408\\tp6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TPBase.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\css\\site.css",
       "SourceId": "TPBase",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\favicon.ico",
       "SourceId": "TPBase",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\wwwroot\\img\\alfonsin.jpg",
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\img\\alfonsin.jpg",
       "SourceId": "TPBase",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "img/alfonsin.jpg",
       "AssetKind": "All",
@@ -102,10 +102,27 @@
       "OriginalItemSpec": "wwwroot\\img\\alfonsin.jpg"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\wwwroot\\img\\peron.jpg",
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\img\\bandera.png",
       "SourceId": "TPBase",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
+      "BasePath": "_content/TPBase",
+      "RelativePath": "img/bandera.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bandera.png"
+    },
+    {
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\img\\peron.jpg",
+      "SourceId": "TPBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "img/peron.jpg",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\peron.jpg"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\js\\site.js",
       "SourceId": "TPBase",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\2023\\Programación\\TP6\\wwwroot\\TP6BD.sql",
+      "Identity": "C:\\Users\\47490408\\tp6\\wwwroot\\TP6BD.sql",
       "SourceId": "TPBase",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programación\\TP6\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47490408\\tp6\\wwwroot\\",
       "BasePath": "_content/TPBase",
       "RelativePath": "TP6BD.sql",
       "AssetKind": "All",
